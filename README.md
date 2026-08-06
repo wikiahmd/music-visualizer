@@ -36,7 +36,7 @@ The codebase is organized into modular JavaScript files to separate the core log
 - **playbackButton.js**: Handles the rendering and hit-detection logic for the play/pause UI button.
 - **Visualizer Scripts**: Individual files (e.g., angryFace.js, ballRings.js, bouncingSquares.js, hexagon.js, spaceShip.js) that contain the specific draw functions, geometry, lighting, and camera logic for each effect.
 
-## Bugs 🐞
+## 🐞 Bugs 
 This visualizer cannot:
 - Go back from 3D to 2D due to a technical limitation
 - Handle other keys that may be typed, this would cause the visualizer to crash.
