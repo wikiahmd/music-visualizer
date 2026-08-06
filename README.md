@@ -1,4 +1,4 @@
-# Music Visualizer (p5.js) ✨
+# Music Visualizer (JavaScript) ✨
 This project is a dynamic music visualization application built using the p5.js and p5.sound.js libraries. It provides a collection of audio-reactive visual effects that respond to the amplitude and waveform data of a loaded audio track.  
 
 ## 🌟 Features
